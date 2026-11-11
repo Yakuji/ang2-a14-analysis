@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and the data deposit below."
+title: "ang2-a14-analysis"
+abstract: >-
+  Analysis code for the molecular dynamics, steered molecular dynamics and binding-kinetics
+  analyses of angubindin-2 position-14 substitutions at angulin-1 and angulin-3.
+type: software
+license: MIT
+authors:
+  - family-names: Kuzu
+    given-names: Taiki
+  - family-names: Niwa
+    given-names: Yuki
+  - family-names: Kimura
+    given-names: Shizuki
+  - family-names: Kondoh
+    given-names: Masuo
+references:
+  - type: data
+    title: "Data for: One side-chain atom switches the kinetic step governing angulin paralog selectivity at tight junctions"
+    doi: 10.5281/zenodo.24103964
+    authors:
+      - family-names: Kuzu
+        given-names: Taiki
+      - family-names: Niwa
+        given-names: Yuki
+      - family-names: Kimura
+        given-names: Shizuki
+      - family-names: Kondoh
+        given-names: Masuo

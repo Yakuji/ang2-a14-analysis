@@ -1,0 +1,13 @@
+name: ang2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.20
+  - numpy=2.2.6
+  - scipy=1.15.2
+  - mdanalysis=2.9.0
+  - openpyxl=3.1.5
+
+# GROMACS 2024.3 is required by scripts/extract/sasa_if.py (gmx sasa) and by the
+# steered-MD setup scripts. It was built from source rather than installed from a
+# package channel; the path to the binary is set at the top of each script that uses it.
