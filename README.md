@@ -1,7 +1,7 @@
 # ang2-a14-analysis
 
-Analysis code for *One side-chain atom switches the kinetic step governing angulin paralog
-selectivity at tight junctions* (Kuzu, Niwa, Kimura & Kondoh).
+Analysis code for *Steric bulk at one position of a tight junction modulator switches the kinetic
+step governing angulin paralog selectivity* (Kuzu, Niwa, Kimura & Kondoh).
 
 The code here covers the computational analyses described in the paper's Methods:
 contact occupancy in the molecular dynamics (MD) trajectories, solvent-accessible surface

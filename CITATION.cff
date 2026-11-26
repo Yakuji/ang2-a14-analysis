@@ -1,11 +1,14 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite the paper and the data deposit below."
-title: "ang2-a14-analysis"
+title: "Analysis code for: Steric bulk at one position of a tight junction modulator switches the kinetic step governing angulin paralog selectivity"
 abstract: >-
   Analysis code for the molecular dynamics, steered molecular dynamics and binding-kinetics
   analyses of angubindin-2 position-14 substitutions at angulin-1 and angulin-3.
 type: software
 license: MIT
+version: "1.0.0"
+date-released: 2026-11-26
+repository-code: "https://github.com/Yakuji/ang2-a14-analysis"
 authors:
   - family-names: Kuzu
     given-names: Taiki
@@ -17,7 +20,7 @@ authors:
     given-names: Masuo
 references:
   - type: data
-    title: "Data for: One side-chain atom switches the kinetic step governing angulin paralog selectivity at tight junctions"
+    title: "Angubindin-2 position-14 substitutions: AlphaFold3 predictions, molecular dynamics and analysis data"
     doi: 10.5281/zenodo.24103964
     authors:
       - family-names: Kuzu
